@@ -1,0 +1,34 @@
+
+body {
+    background: linear-gradient(-60deg, white, black);
+    background-image: url("Another_Africa_Nkiru_Oparah_01.jpg-nggid044610-ngg0dyn-0x0x100-00f0w010c010r110f110r010t010.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    color: darkgrey;
+    
+}
+
+.divvy {
+    padding-left: 30px;
+    padding-top: 50px;
+}
+
+.div1 {
+    padding-left: 30px;
+    padding-top: 50px;
+    font-size: 50px;
+}
+
+.div2 {
+    padding-left: 1050px;
+    padding-top: 0px;
+    margin: 0px;
+    font-size: 50px;
+}
+
+.div3 {
+    padding-left: 25px;
+    padding-top: 0px;
+    font-size: 50px;
+}
+
